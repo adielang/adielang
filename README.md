@@ -24,6 +24,12 @@ My goal isn't just to run an agent. It's to document engineering decisions and e
 
 *Public code, architecture notes, and measured results will be linked here as they become ready.*
 
+### Career OS — AI Job Application Tracker — *MVP design*
+
+A private Notion-first job application tracker with a planned Hermes Agent integration for controlled updates, reminders, and evaluation. This is a learning portfolio project; real application and recruiter information stays private.
+
+[Project architecture, roadmap, and acceptance criteria](projects/career-os/README.md)
+
 ### ArtDestiny Engineering Lab — *Early-stage initiative*
 **ArtDestiny** is the home for my applied-AI experiments and portfolio projects. For now, it's an **engineering lab and learning portfolio**, not a claim of commercially available AI products.
 
